@@ -26,7 +26,10 @@ public class BaseClass {
 	
 	public static WebDriver driver;
 	
-	
+	private void testing() {
+		// TODO Auto-generated method stub
+// dummy testing me
+	}
 	
 	
 	public static void launchChromeBrowser() {
