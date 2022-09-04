@@ -73,7 +73,7 @@ public class HotelBooking extends BaseClass {
 		Thread.sleep(5000);
 		closeBrowser();
 		System.out.println("Browser closed");
-
+//Sysugfgfg add
 	}
 
 }
